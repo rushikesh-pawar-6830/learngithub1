@@ -9,3 +9,4 @@ def addfun(num1,num2):
 print("HAPPY ARMY DAY")
 
 print("hello how are you")
+print("jai hind")
